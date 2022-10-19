@@ -1,6 +1,6 @@
 -- Test engine and examples.
 -- (c)2022 Tim Menzies <timm@ieee.org> BSD2
-local _  = require"4101"
+local _  = require"4starters"
 local rand,rint,rnd,sort,srand = _.rand, _.rint, _.rnd, _.sort, _.srand
 local cli,run,the              = _.cli,  _.run,  _.the
 
